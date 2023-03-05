@@ -1,0 +1,514 @@
+portraits = {
+	
+
+	angara_m1	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/1.dds"} 
+		
+	angara_m2	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/2.dds"} 
+		
+	angara_m3	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/3.dds"} 
+
+	angara_m4	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/4.dds"} 
+
+	angara_m5	= {	greeting_sound = "human_male_greetings_04" 
+	                texturefile = "gfx/models/portraits/Mass_Effect/angara/5.dds"} 
+			
+	angara_m6	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/6.dds"} 
+			
+	angara_m7	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/7.dds"} 
+
+	angara_m8	= {	greeting_sound = "human_male_greetings_04" 
+
+	                 texturefile = "gfx/models/portraits/Mass_Effect/angara/8.dds"} 
+	angara_m9	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/9.dds"} 
+
+	 angara_m10	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/angara/10.dds"} 
+ 	 
+	 angara_m11	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/angara/11.dds"} 
+ 
+	 angara_m12	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/angara/12.dds"} 
+ 
+	 angara_m13	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/angara/13.dds"} 
+			 
+	 angara_m14	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/angara/14.dds"} 
+			 
+	 angara_m15	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/angara/15.dds"} 
+
+	 angara_m16	= {	greeting_sound = "human_male_greetings_04" 
+					  texturefile = "gfx/models/portraits/Mass_Effect/angara/16.dds"} 
+	
+    angara_f17	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/17.dds"} 
+			
+	angara_f18	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/18.dds"} 
+
+	angara_f19	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/19.dds"} 
+
+	angara_f20	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/20.dds"} 
+
+	angara_f21	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/21.dds"} 
+
+	angara_f22	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/22.dds"} 
+
+	angara_f23	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/23.dds"} 
+
+	angara_f24	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/24.dds"} 
+
+	angara_f25	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/25.dds"} 
+
+	angara_f26	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/26.dds"} 
+			
+	angara_f27	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/27.dds"} 
+
+	angara_f28	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/28.dds"} 
+
+	angara_f29	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/29.dds"} 
+
+	angara_f30	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/30.dds"} 
+
+	angara_f31	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/31.dds"} 
+
+	angara_f32	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/angara/32.dds"} 
+
+	angara_f33	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/33.dds"} 
+
+	angara_f34	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/angara/34.dds"} 
+
+	}
+
+portrait_groups = {
+	ME24_angara = {
+		default = angara_m6
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				trigger = {
+					ruler = { gender = male }
+				}
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+
+				}
+			}
+			add = {
+				trigger = {
+					ruler = { gender = female }
+				}
+				portraits = {
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+				}
+			}
+			#set = {
+			#	trigger = { ... }
+			#	portraits = { ... }
+			#	#using "set =" instead of "add" will first clear any portraits already added
+			#}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+				}
+			}
+		}		
+		
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = female
+					leader_class = scientist
+				}
+				portraits = {
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+				}
+			}
+			add = {
+				trigger = {
+					gender = male
+					leader_class = scientist
+				}
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+				}
+			} 		
+			add = {
+				trigger = {
+					gender = female
+					leader_class = general
+				}
+				portraits = {
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+				}
+			}  
+			add = {
+				trigger = {
+					gender = male
+					leader_class = general
+				}
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+				}
+			}  
+			add = {
+				trigger = {
+					gender = female
+					leader_class = admiral
+				}
+				portraits = {
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+				}
+			} 
+			add = {
+				trigger = {
+					gender = male
+					leader_class = admiral
+				}
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+
+				}
+			} 
+			add = {
+				trigger = {
+					gender = female
+					leader_class = governor
+				}
+				portraits = {
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+				}
+			} 
+			add = {
+				trigger = {
+					gender = male
+					leader_class = governor
+				}
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+				}
+			} 		
+
+		}
+
+		#leader scope 
+		ruler = {
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					angara_f17
+					angara_f18
+					angara_f19
+					angara_f20
+					angara_f21
+					angara_f22
+					angara_f23
+					angara_f24
+					angara_f25
+					angara_f26
+					angara_f27
+					angara_f28
+					angara_f29
+					angara_f30
+					angara_f31
+					angara_f32
+					angara_f33
+					angara_f34
+
+				}
+			}
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					angara_m1
+					angara_m2
+					angara_m3
+					angara_m4
+					angara_m5
+					angara_m6
+					angara_m7
+					angara_m8
+					angara_m9
+					angara_m10
+					angara_m11
+					angara_m12
+					angara_m13
+					angara_m14
+					angara_m15
+					angara_m16
+					
+					
+				}
+			}
+		}		
+	
+	}
+}

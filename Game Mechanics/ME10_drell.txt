@@ -1,0 +1,319 @@
+portraits = {
+	
+
+	drell_m1	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/1.dds"} 
+
+			
+	drell_m2	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/2.dds"} 
+
+			
+	drell_m3	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/3.dds"} 
+
+	drell_m4	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/4.dds"} 
+
+	drell_m5	= {	greeting_sound = "human_male_greetings_04" 
+	                texturefile = "gfx/models/portraits/Mass_Effect/drell/5.dds"} 
+			
+	drell_m6	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/6.dds"} 
+			
+	drell_m7	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/7.dds"} 
+
+			
+	drell_f1	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/drell/8.dds"} 
+			
+	drell_f2	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/9.dds"} 
+
+	drell_f3	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/drell/10.dds"} 
+
+	drell_f4	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/11.dds"} 
+
+	drell_f5	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/12.dds"} 
+
+	drell_f6	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/13.dds"} 
+
+	drell_f7	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/drell/14.dds"} 
+
+	drell_f8	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/drell/15.dds"} 
+
+	drell_f9	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/drell/16.dds"} 
+
+
+
+	}
+portrait_groups = {
+	ME10_drell = {
+		default = drell_f4
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				trigger = {
+					ruler = { gender = male }
+				}
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+				}
+			}
+			add = {
+				trigger = {
+					ruler = { gender = female }
+				}
+				portraits = {
+					drell_f4
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+				}
+			}
+			#set = {
+			#	trigger = { ... }
+			#	portraits = { ... }
+			#	#using "set =" instead of "add" will first clear any portraits already added
+			#}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f4
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+				}
+			}
+		}		
+		
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f4
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = female
+					leader_class = scientist
+				}
+				portraits = {
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f4
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+				}
+			}
+			add = {
+				trigger = {
+					gender = male
+					leader_class = scientist
+				}
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+				}
+			} 		
+			add = {
+				trigger = {
+					gender = female
+					leader_class = general
+				}
+				portraits = {
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f4
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+				}
+			}  
+			add = {
+				trigger = {
+					gender = male
+					leader_class = general
+				}
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+				}
+			}  
+			add = {
+				trigger = {
+					gender = female
+					leader_class = admiral
+				}
+				portraits = {
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f4
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+				}
+			} 
+			add = {
+				trigger = {
+					gender = male
+					leader_class = admiral
+				}
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+
+				}
+			} 
+			add = {
+				trigger = {
+					gender = female
+					leader_class = governor
+				}
+				portraits = {
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f4
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+				}
+			} 
+			add = {
+				trigger = {
+					gender = male
+					leader_class = governor
+				}
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+				}
+			} 		
+
+		}
+
+		#leader scope 
+		ruler = {
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					drell_f1
+					drell_f2
+					drell_f3
+					drell_f4
+					drell_f5
+					drell_f6
+					drell_f7
+					drell_f8
+					drell_f9
+
+				}
+			}
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					drell_m1
+					drell_m2
+					drell_m3
+					drell_m4
+					drell_m5
+					drell_m6
+					drell_m7
+					
+					
+				}
+			}
+		}		
+	
+	}
+}

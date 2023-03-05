@@ -1,0 +1,513 @@
+portraits = {
+	
+
+	hanar_m1	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/1.dds"} 
+		
+	hanar_m2	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/2.dds"} 
+		
+	hanar_m3	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/3.dds"} 
+
+	hanar_m4	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/4.dds"} 
+
+	hanar_m5	= {	greeting_sound = "human_male_greetings_04" 
+	                texturefile = "gfx/models/portraits/Mass_Effect/hanar/5.dds"} 
+			
+	hanar_m6	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/6.dds"} 
+			
+	hanar_m7	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/7.dds"} 
+
+	hanar_m8	= {	greeting_sound = "human_male_greetings_04" 
+
+	                 texturefile = "gfx/models/portraits/Mass_Effect/hanar/8.dds"} 
+	hanar_m9	= {	greeting_sound = "human_male_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/9.dds"} 
+
+	 hanar_m10	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/hanar/10.dds"} 
+ 	 
+	 hanar_f11	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/hanar/11.dds"} 
+ 
+	 hanar_f12	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/hanar/12.dds"} 
+ 
+	 hanar_f13	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/hanar/13.dds"} 
+			 
+	 hanar_f14	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/hanar/14.dds"} 
+			 
+	 hanar_f15	= {	greeting_sound = "human_male_greetings_04" 
+					 texturefile = "gfx/models/portraits/Mass_Effect/hanar/15.dds"} 
+
+	 hanar_f16	= {	greeting_sound = "human_male_greetings_04" 
+					  texturefile = "gfx/models/portraits/Mass_Effect/hanar/16.dds"} 
+	
+    hanar_f17	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/17.dds"} 
+			
+	hanar_f18	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/18.dds"} 
+
+	hanar_f19	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/19.dds"} 
+
+	hanar_f20	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/20.dds"} 
+
+	hanar_f21	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/21.dds"} 
+
+	hanar_f22	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/22.dds"} 
+
+	hanar_f23	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/23.dds"} 
+
+	hanar_f24	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/24.dds"} 
+
+	hanar_f25	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/25.dds"} 
+
+	hanar_f26	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/26.dds"} 
+			
+	hanar_f27	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/27.dds"} 
+
+	hanar_f28	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/28.dds"} 
+
+	hanar_f29	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/29.dds"} 
+
+	hanar_f30	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/30.dds"} 
+
+	hanar_f31	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/31.dds"} 
+
+	hanar_f32	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile = "gfx/models/portraits/Mass_Effect/hanar/32.dds"} 
+
+	hanar_f33	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/33.dds"} 
+
+	hanar_f34	= {	greeting_sound = "human_female_greetings_04" 
+					texturefile ="gfx/models/portraits/Mass_Effect/hanar/34.dds"} 
+
+	}
+
+portrait_groups = {
+	ME16_hanar = {
+		default = hanar_m2
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				trigger = {
+					ruler = { gender = male }
+				}
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+					
+
+				}
+			}
+			add = {
+				trigger = {
+					ruler = { gender = female }
+				}
+				portraits = {
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+				}
+			}
+			#set = {
+			#	trigger = { ... }
+			#	portraits = { ... }
+			#	#using "set =" instead of "add" will first clear any portraits already added
+			#}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+					hanar_f11
+					hanar_f12
+					hanar_f13
+					hanar_f14
+					hanar_f15
+					hanar_f16
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+				}
+			}
+		}		
+		
+		#pop scope
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+					hanar_f11
+					hanar_f12
+					hanar_f13
+					hanar_f14
+					hanar_f15
+					hanar_f16
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = female
+					leader_class = scientist
+				}
+				portraits = {
+					hanar_f11
+					hanar_f12
+					hanar_f13
+					hanar_f14
+					hanar_f15
+					hanar_f16
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+				}
+			}
+			add = {
+				trigger = {
+					gender = male
+					leader_class = scientist
+				}
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+				}
+			} 		
+			add = {
+				trigger = {
+					gender = female
+					leader_class = general
+				}
+				portraits = {
+					hanar_f11
+					hanar_f12
+					hanar_f13
+					hanar_f14
+					hanar_f15
+					hanar_f16
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+				}
+			}  
+			add = {
+				trigger = {
+					gender = male
+					leader_class = general
+				}
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+					
+				}
+			}  
+			add = {
+				trigger = {
+					gender = female
+					leader_class = admiral
+				}
+				portraits = {
+					hanar_f11
+					hanar_f12
+					hanar_f13
+					hanar_f14
+					hanar_f15
+					hanar_f16
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+				}
+			} 
+			add = {
+				trigger = {
+					gender = male
+					leader_class = admiral
+				}
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+					
+
+				}
+			} 
+			add = {
+				trigger = {
+					gender = female
+					leader_class = governor
+				}
+				portraits = {
+					hanar_f11
+					hanar_f12
+					hanar_f13
+					hanar_f14
+					hanar_f15
+					hanar_f16
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+				}
+			} 
+			add = {
+				trigger = {
+					gender = male
+					leader_class = governor
+				}
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+				
+				}
+			} 		
+
+		}
+
+		#leader scope 
+		ruler = {
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					hanar_f11
+					hanar_f12
+					hanar_f13
+					hanar_f14
+					hanar_f15
+					hanar_f16
+					hanar_f17
+					hanar_f18
+					hanar_f19
+					hanar_f20
+					hanar_f21
+					hanar_f22
+					hanar_f23
+					hanar_f24
+					hanar_f25
+					hanar_f26
+					hanar_f27
+					hanar_f28
+					hanar_f29
+					hanar_f30
+					hanar_f31
+					hanar_f32
+					hanar_f33
+					hanar_f34
+
+				}
+			}
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					hanar_m1
+					hanar_m2
+					hanar_m3
+					hanar_m4
+					hanar_m5
+					hanar_m6
+					hanar_m7
+					hanar_m8
+					hanar_m9
+					hanar_m10
+					
+					
+					
+				}
+			}
+		}		
+	
+	}
+}
